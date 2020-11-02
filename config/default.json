@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://blank:dGGA7FCxwbbbn0ZP@testconnector.zplxd.mongodb.net/<dbname>?retryWrites=true&w=majority"
+
+}
